@@ -1,8 +1,8 @@
 ## 王志誠 (Casper)
-Personal Blog: [http://wcc723.github.io/]
-Facebook: [https://www.facebook.com/chihcheng.wang.3]
-Date of Birth: July 23th, 1984
-Education: NKNU (M.A.) 視覺設計碩士
+- Personal Blog: http://wcc723.github.io/
+- Facebook: https://www.facebook.com/chihcheng.wang.3
+- Date of Birth: July 23th, 1984
+- Education: NKNU (M.A.) 高雄師範大學 視覺設計碩士
 
 ## 能力說明
 
