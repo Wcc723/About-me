@@ -7,8 +7,9 @@
 
 ## 2014 成就
 
-- [Google Material Design 繁體中文版電子書](http://wcc723.gitbooks.io/google_design_translate/)翻譯發起 (Gitbook 排行榜第三名)
+- [Google Material Design 繁體中文版電子書](http://wcc723.gitbooks.io/google_design_translate/)翻譯發起 (Gitbook 排行榜第四名)
 - 挑戰2014-IT幫鐵人賽 主題：D3.js [http://ithelp.ithome.com.tw/ironman7/app/profile/20083608](http://ithelp.ithome.com.tw/ironman7/app/profile/20083608)
+- 鐵人賽連續兩年優選
 - MOPCON 2014官網 [http://mopcon.org/2014/](http://mopcon.org/2014/)
 - 鴻海軟體工程師 Get
 - 2014 主要研究 Node.js Gulp, Git, CSS Structure, CSS Compontents, D3.js, Material design
@@ -47,6 +48,7 @@
 
 ## 其他經歷
 
+- 2014 IT幫鐵人賽，技術組優選
 - 2013 IT幫鐵人賽，技術組優選
 - 台灣海報設計新星獎 優選
 - 2009世運在高雄標誌徵選 入選
