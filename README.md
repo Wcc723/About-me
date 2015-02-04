@@ -5,9 +5,14 @@
 - Date of Birth: July 23th, 1984
 - Education: NKNU (M.A.) 高雄師範大學 視覺設計碩士
 
+## 2015 期望
+
+- 挑戰 Rails
+- 製作 CSS Styleguide
+
 ## 2014 成就
 
-- [Google Material Design 繁體中文版電子書](http://wcc723.gitbooks.io/google_design_translate/)翻譯發起 (Gitbook 排行榜第四名)
+- [Google Material Design 繁體中文版電子書](http://wcc723.gitbooks.io/google_design_translate/)翻譯發起 (Gitbook 排行榜最高第四名)
 - 挑戰2014-IT幫鐵人賽 主題：D3.js [http://ithelp.ithome.com.tw/ironman7/app/profile/20083608](http://ithelp.ithome.com.tw/ironman7/app/profile/20083608)
 - 鐵人賽連續兩年優選
 - MOPCON 2014官網 [http://mopcon.org/2014/](http://mopcon.org/2014/)
@@ -39,12 +44,12 @@
 - 使用github page 架設 blog
 - 獨立開發 ActionScript 3.0 遊戲
 - 懂版本控制 Git 及 Github
-- 曾使用過 MVC 開發框架(.net)
+- 配合 MVC 開發框架(.net, node.js express, jsp spring mvc)
 - 取得政府公開資料，並利用phonGap開發IOS App
-- 開發Sass @mixin
 - 開發jquery plugin
 - 熟悉HTML樣板語言(Markdown, Liquid, Slim, Erb)
-- 使用 Mac OS
+- 開發 CSS framework(公司內部使用)
+- 使用 Ionic framework, angular, cordova 開發 Android App
 
 ## 其他經歷
 
@@ -58,7 +63,7 @@
 
 - 高雄、台北
 - 周休二日 每週不超過40hr
-- 保障年薪 750 K
+- 保障年薪 800 K
 - 超棒福利
 - 專業技術教育訓練
 - 使用 Mac
