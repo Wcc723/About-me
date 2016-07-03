@@ -3,13 +3,25 @@
 - Personal Blog: http://wcc723.github.io/
 - Facebook: https://www.facebook.com/chihcheng.wang.3
 - Date of Birth: July 23th, 1984
-- Education: NKNU (M.A.) 高雄師範大學 視覺設計碩士
+- 高雄前端社群核心成員
+- MOPCON 小混混
+ 
+## 2016 成就
 
-## 2015 期望
+- 到目前舉辦 4 次 CSS 讀書會 (線上與實體並行聚會)
+  - [CSS 讀書會 - Grid system](http://gonsakon-7655f2.kktix.cc/events/css-book-club-001)  
+  - [CSS 讀書會 - Sass 開發環境](http://gonsakon-7655f2.kktix.cc/events/css-book-club-002-sass-and-gulp)  
+  - [專業前端都如何管理 CSS -- CSS 讀書會](http://gonsakon-7655f2.kktix.cc/events/css-book-club-003)  
+  - [Sass 基礎入門 -- CSS 讀書會](http://gonsakon-7655f2.kktix.cc/events/css-book-club-003-55ae43)  
+- 一次全日的前端聚會主要講師
+  - [高雄前端社群#23 - 響應式網站設計實作坊](http://gonsakon-7655f2.kktix.cc/events/a5791ac5-f60f9c-cc9dec-eb381d-6b57e9-3a5710-61e623-17b85b)
+- 實際操作 Growth Hack 與行銷
 
-- 挑戰 Rails
+## 2015 成就
+
 - 製作 CSS Styleguide
 - MOPCON 2015官網 [http://mopcon.org/2015/](http://mopcon.org/2015/)
+- Git 工作坊 [連猴子都懂的Git入門指南 workshop](http://gonsakon-7655f2.kktix.cc/events/a5791ac5-f60f9c-cc9dec)
 
 ## 2014 成就
 
@@ -38,7 +50,8 @@
 - CSS, CSS3
 - Sass (Compass, Susy)
 - Erb, Slim... html template language
-- Jqeury 
+- Jqeury, Anuglar(1.x) 
+- 自動化工具 (gulp)
 
 ## 有經驗
 
@@ -51,20 +64,21 @@
 - 熟悉HTML樣板語言(Markdown, Liquid, Slim, Erb)
 - 開發 CSS framework(公司內部使用)
 - 使用 Ionic framework, angular, cordova 開發 Android App
+- Node.js, PM2, Apache, Mysql 部署(略懂)
 
 ## 其他經歷
 
-- 2014 IT幫鐵人賽，技術組優選
-- 2013 IT幫鐵人賽，技術組優選
+- 2014 IT幫鐵人賽，技術組優選：主題以 D3.js 為主
+- 2013 IT幫鐵人賽，技術組優選：主題以 CSS 為主
 - 台灣海報設計新星獎 優選
 - 2009世運在高雄標誌徵選 入選
 - 學生美展設計類 第一名
 
 # 工作期望
 
-- 高雄、台北
+- 高雄
 - 周休二日 每週不超過40hr
-- 保障年薪 800 K
+- 月薪 60k 起
 - 超棒福利
 - 專業技術教育訓練
 - 使用 Mac
