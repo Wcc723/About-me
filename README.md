@@ -3,6 +3,7 @@
 - Personal Blog: http://wcc723.github.io/
 - Facebook: https://www.facebook.com/chihcheng.wang.3
 - Date of Birth: July 23th, 1984
+- 資歷：4 年
 - 高雄前端社群核心成員
 - MOPCON 小混混
  
