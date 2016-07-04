@@ -53,8 +53,8 @@
 - Jqeury, Anuglar(1.x) 
 - 自動化工具 (gulp)
 - 懂版本控制 Git 及 Github
-- SEO：網頁結構化(json-ld, schema.org)
-- 網路行銷工具：Google Analytic、Facebook Pixel、Mixpanel
+- SEO：網頁結構化 (json-ld, schema.org)
+- 網路行銷工具：Google Analytic、Facebook Pixel、Mixpanel...(手法還是比較重要...)
 
 ## 有經驗
 
