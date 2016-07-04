@@ -52,6 +52,8 @@
 - Erb, Slim... html template language
 - Jqeury, Anuglar(1.x) 
 - 自動化工具 (gulp)
+- SEO：網頁結構化(json-ld, schema.org)
+- 網路行銷工具：Google Analytic、Facebook Pixel、Mixpanel
 
 ## 有經驗
 
@@ -78,7 +80,7 @@
 
 - 高雄
 - 周休二日 每週不超過40hr
-- 月薪 60k 起
+- 月薪 65k 起
 - 超棒福利
 - 專業技術教育訓練
 - 使用 Mac
