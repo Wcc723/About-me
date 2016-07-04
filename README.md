@@ -52,18 +52,17 @@
 - Erb, Slim... html template language
 - Jqeury, Anuglar(1.x) 
 - 自動化工具 (gulp)
+- 懂版本控制 Git 及 Github
 - SEO：網頁結構化(json-ld, schema.org)
 - 網路行銷工具：Google Analytic、Facebook Pixel、Mixpanel
 
 ## 有經驗
 
-- 使用github page 架設 blog
 - 獨立開發 ActionScript 3.0 遊戲
-- 懂版本控制 Git 及 Github
 - 配合 MVC 開發框架(.net, node.js express, jsp spring mvc)
-- 取得政府公開資料，並利用phonGap開發IOS App
-- 開發jquery plugin
-- 熟悉HTML樣板語言(Markdown, Liquid, Slim, Erb)
+- 取得政府公開資料，並利用 phoneGap 開發 App
+- 開發 jQuery plugin
+- 熟悉 HTML 樣板語言(Markdown, Liquid, Slim, Erb)
 - 開發 CSS framework(公司內部使用)
 - 使用 Ionic framework, angular, cordova 開發 Android App
 - Node.js, PM2, Apache, Mysql 部署(略懂)
