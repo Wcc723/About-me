@@ -5,11 +5,11 @@
 - Date of Birth: July 23th, 1984
 - 工作資歷：4 年
 - 高雄前端社群核心成員
-- MOPCON 小混混
+- MOPCON 網站開發
  
 ## 2016 成就
 
-- 到目前舉辦 4 次 CSS 讀書會 (線上與實體並行聚會)
+- 舉辦 4 次 CSS 讀書會的主要講師 (線上與實體並行聚會)
   - [CSS 讀書會 - Grid system](http://gonsakon-7655f2.kktix.cc/events/css-book-club-001)  
   - [CSS 讀書會 - Sass 開發環境](http://gonsakon-7655f2.kktix.cc/events/css-book-club-002-sass-and-gulp)  
   - [專業前端都如何管理 CSS -- CSS 讀書會](http://gonsakon-7655f2.kktix.cc/events/css-book-club-003)  
@@ -20,16 +20,16 @@
 
 ## 2015 成就
 
-- 製作 CSS Styleguide
-- MOPCON 2015官網 [http://mopcon.org/2015/](http://mopcon.org/2015/)
-- Git 工作坊 [連猴子都懂的Git入門指南 workshop](http://gonsakon-7655f2.kktix.cc/events/a5791ac5-f60f9c-cc9dec)
+- 製作 CSS Styleguide for 公司使用
+- MOPCON 2015官網主要設計 [http://mopcon.org/2015/](http://mopcon.org/2015/)
+- Git 工作坊講師 [連猴子都懂的Git入門指南 workshop](http://gonsakon-7655f2.kktix.cc/events/a5791ac5-f60f9c-cc9dec)
 
 ## 2014 成就
 
 - [Google Material Design 繁體中文版電子書](http://wcc723.gitbooks.io/google_design_translate/)翻譯發起 (Gitbook 排行榜最高第四名)
 - 挑戰2014-IT幫鐵人賽 主題：D3.js [http://ithelp.ithome.com.tw/ironman7/app/profile/20083608](http://ithelp.ithome.com.tw/ironman7/app/profile/20083608)
 - 鐵人賽連續兩年優選
-- MOPCON 2014官網 [http://mopcon.org/2014/](http://mopcon.org/2014/)
+- MOPCON 2014官網網站設計與前端開發 [http://mopcon.org/2014/](http://mopcon.org/2014/)
 - 鴻海軟體工程師 Get
 - 2014 主要研究 Node.js Gulp, Git, CSS Structure, CSS Compontents, D3.js, Material design
 
@@ -41,7 +41,7 @@
 2. 熟悉 html5, CSS, Jquery等技術
 3. 擅於與團隊溝通，相互瞭解開發狀況
 4. 對新技術研究有熱情 
-5. 高雄前端社群核心成員
+5. 高雄前端社群核心成員 (多次講師經驗)
 6. 經常發表相關技術文章及公開發分享技術
 
 ## 專精於
