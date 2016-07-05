@@ -2,6 +2,7 @@
 
 - Personal Blog: http://wcc723.github.io/
 - Facebook: https://www.facebook.com/chihcheng.wang.3
+- E-mail: agito723@gmail.com
 - Date of Birth: July 23th, 1984
 - 工作資歷：4 年
 - 高雄前端社群核心成員
